@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPDFtoTXT", "AppPDFtoTXT\AppPDFtoTXT.csproj", "{A72A32FF-02AF-4C40-BFE4-6BF4E4ED57FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72A32FF-02AF-4C40-BFE4-6BF4E4ED57FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72A32FF-02AF-4C40-BFE4-6BF4E4ED57FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72A32FF-02AF-4C40-BFE4-6BF4E4ED57FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72A32FF-02AF-4C40-BFE4-6BF4E4ED57FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59700F9A-E61D-410C-A145-FE00F1912E06}
+	EndGlobalSection
+EndGlobal
